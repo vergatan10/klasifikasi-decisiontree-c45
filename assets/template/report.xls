@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<table>
+  <thead>
+<tr>
+  <th>No</th>
+  <th>Unit Kerja</th>
+  <th>Pegawai</th>
+  <th>Kualitatif</th>
+  <th>Kuantitatif</th>
+  <th>Nama Usaha</th>
+  <th>Bidang Usaha</th>
+  <th>Alamat Usaha</th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>001TSI</td>
+    <td>4451 - mentari.asharia</td>
+    <td>today is a good day</td>
+    <td>i dunno anything </td>
+    <td>Andyresta Sutejo</td>
+    <td>Tempe Geprek Idola</td>
+    <td>Semarang </td>
+  </tr>
+    <tr>
+    <td>2</td>
+    <td>001TSI</td>
+    <td>4303 - andyresta</td>
+    <td>sfsfd</td>
+    <td>sdfsdfs</td>
+    <td>sdfs</td>
+    <td>sdfsdf</td>
+    <td>sdfsf</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td>001TSI</td>
+    <td>4451 - mentari.asharia</td>
+    <td>fufgxg</td>
+    <td>fjhxcbc </td>
+    <td>tari</td>
+    <td>tdgd</td>
+    <td>smg</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>001TSI</td>
+    <td>4451 - mentari.asharia</td>
+    <td>ajajajj</td>
+    <td>hahajaj</td>
+    <td>tari</td>
+    <td>akakakka</td>
+    <td>akwkwm</td>
+  </tr>
+  </tbody>
+</table
+  </body>
+</html>
