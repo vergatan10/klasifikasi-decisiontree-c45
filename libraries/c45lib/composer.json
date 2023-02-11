@@ -1,0 +1,5 @@
+{
+    "require": {
+        "medansoftware/c45-algorithm-php": "^1.0"
+    }
+}
